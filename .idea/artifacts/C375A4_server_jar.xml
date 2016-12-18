@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="C375A4_server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/C375A4_server_jar</output-path>
+    <root id="archive" name="CSC375A4.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CSC375A4" />
+    </root>
+  </artifact>
+</component>
